@@ -16,4 +16,7 @@ public interface User {
   public void add(String nama, String alamat, String telepon);
 
   public void remove(int i);
+  /*
+   * AUTHOR @Kusindra Aji Rabbany
+   */
 }

@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * AUTHOR @Kusindra Aji Rabbany
+ */
+
 public class Aplikasi {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
@@ -79,6 +83,10 @@ public class Aplikasi {
       }
     } while (menu != 99);
   }
+
+  /*
+   * AUTHOR @Kusindra Aji Rabbany
+   */
 
   public static int menuMasyarakat(int menu, Scanner in) {
     if (menu == 0) {

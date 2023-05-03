@@ -1,6 +1,13 @@
 import java.util.ArrayList;
 
+/*
+ * AUTHOR @Kusindra Aji Rabbany
+ */
+
 public class Barang {
+  /*
+   * AUTHOR @Kusindra Aji Rabbany
+   */
   ArrayList<Integer> idMasyarakat = new ArrayList<Integer>();
   ArrayList<String> namaBarang = new ArrayList<String>();
   ArrayList<Integer> hargaAwal = new ArrayList<Integer>();

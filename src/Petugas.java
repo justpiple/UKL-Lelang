@@ -45,4 +45,7 @@ public class Petugas implements User {
     this.alamat.remove(i);
     this.telepon.remove(i);
   }
+  /*
+   * AUTHOR @Kusindra Aji Rabbany
+   */
 }
